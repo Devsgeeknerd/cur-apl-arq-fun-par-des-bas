@@ -5,7 +5,7 @@
 
 * [x] [Aplicações Linha de Comando e Desktop.](https://github.com/Devsgeeknerd/mod-apl-lin-com-des-apl-arq-fun-bas)
 * [x] [Aplicações Web.](https://github.com/Devsgeeknerd/mod-apl-web-apl-arq-fun-bas)
-* [ ] [Aplicações Mobile.](https://github.com/Devsgeeknerd/mod-apl-mob-apl-arq-fun-bas) &#128679;
+* [x] [Aplicações Mobile.](https://github.com/Devsgeeknerd/mod-apl-mob-apl-arq-fun-bas)
 
 No mercado de tecnologia é comum empresas possuírem ambientes heterogêneos, com vários tipos de aplicações e tecnologias.
 
