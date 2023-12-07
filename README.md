@@ -17,7 +17,7 @@ Com objetivo de criar um censo de mercado em desenvolvedores e outros profission
 
 ## Conhecimentos adquiridos
 
-Neste curso vamos falar sobre os principais tipos de **aplicações**, **arquiteturas** e **tecnologias** utilizadas para seu desenvolvimento de *software*.
+Neste curso vamos falar sobre os principais tipos de **aplicações**, **arquiteturas** e **tecnologias** utilizadas para seu desenvolvimento de ***software***.
 
 ### Entre vários outros conteúdos conheceremos:
 
